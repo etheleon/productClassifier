@@ -8,7 +8,7 @@ locale: en
 url:
 feed:
   path: atom.xml
-
+baseurl: /productClassifier
 # Jekyll configuration
 
 sass:
